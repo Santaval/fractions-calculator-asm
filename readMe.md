@@ -23,9 +23,6 @@ Este proyecto implementa una calculadora para operaciones con fracciones usando 
 
 ## Diseño del Sistema
 
-### Diagrama de Bloques
-Un diagrama de bloques básico podría ser útil para entender el flujo del programa. (Puedes incluir un diagrama aquí si lo tienes).
-
 ### Módulos del Sistema
 1. **Entrada de Datos:** Maneja la entrada del teclado usando la interrupción INT 16H del BIOS.
 2. **Operaciones Aritméticas:** Realiza las operaciones de suma, resta, multiplicación y división con fracciones.
